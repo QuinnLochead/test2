@@ -1,0 +1,8 @@
+C:\Users\10002045\desktop\testt\bin\Debug\netcoreapp1.1\testt.deps.json
+C:\Users\10002045\desktop\testt\bin\Debug\netcoreapp1.1\testt.runtimeconfig.json
+C:\Users\10002045\desktop\testt\bin\Debug\netcoreapp1.1\testt.runtimeconfig.dev.json
+C:\Users\10002045\desktop\testt\obj\Debug\netcoreapp1.1\testt.AssemblyInfo.cs
+C:\Users\10002045\desktop\testt\bin\Debug\netcoreapp1.1\testt.dll
+C:\Users\10002045\desktop\testt\bin\Debug\netcoreapp1.1\testt.pdb
+C:\Users\10002045\desktop\testt\obj\Debug\netcoreapp1.1\testt.dll
+C:\Users\10002045\desktop\testt\obj\Debug\netcoreapp1.1\testt.pdb
